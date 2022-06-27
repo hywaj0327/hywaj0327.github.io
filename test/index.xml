@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tests on My New Hugo Site</title>
+    <link>https://hywaj0327.github.io.github.io/test/</link>
+    <description>Recent content in Tests on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Jun 2022 18:12:57 +0800</lastBuildDate><atom:link href="https://hywaj0327.github.io.github.io/test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Firstblog</title>
+      <link>https://hywaj0327.github.io.github.io/test/firstblog/</link>
+      <pubDate>Mon, 27 Jun 2022 18:12:57 +0800</pubDate>
+      
+      <guid>https://hywaj0327.github.io.github.io/test/firstblog/</guid>
+      <description>#在使用开源软件建立并托管博客实践中遇到的一些问题以及解决方式（开源软件开发技术课程实践） 1.刚开始时，在cmd中测试语句时，显示“hugo不是内部或外部命令，也不是可运行的程序或批处理文件”； 在班级群中请教老师和同学之后，得到了出现此问题可能的原因：(1)环境变量没有配好；（2）命令行有缓存； 在配完环境变量之后重复了操作，发现配置成功。 2.在本机启动个人博客时，遇到了SSL certificate problem; 在《开源软件开发技术课程实践2》文件中得到了解决方法</description>
+    </item>
+    
+  </channel>
+</rss>
